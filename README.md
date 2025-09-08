@@ -43,7 +43,6 @@ I’m a **Developer** and **tech enthusiast** passionate about **building better
 
 ## 📊 GitHub Stats  
 ![Harshith's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pseudo0244&layout=compact&theme=radical)  
-![Harshith's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pseudo0244&theme=react-dark)  
 
 ## ☕ **Coffee Consumption**
 
