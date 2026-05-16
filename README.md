@@ -5,7 +5,7 @@
 <tr>
 <td width="50%" valign="top" style="padding: 30px; text-align: center;">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=39D353&center=true&width=435&lines=Hi%2C+I'm+Harshith+J;Backend+Developer;Cloud+Engineer;Solutions+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=39D353&center=true&width=435&lines=Hi%2C+I'm+Harshith+J;Backend+Developer;Cloud+Engineering;Solutions+Architect" alt="Typing SVG" />
 
 <br/>
 
