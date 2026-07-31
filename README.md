@@ -1,6 +1,9 @@
 <!-- BANNER -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
-<a href="https://u8views.com/github/harshithjn"><img src="https://u8views.com/api/v1/github/profiles/142434147/views/day-week-month-total-count.svg"></a>
+<img src="https://u8views.com/api/v1/github/profiles/142434147/views/day-week-month-total-count.svg"
+     width="0"
+     height="0"
+     alt="">
 
 <table width="100%" style="border: none; border-collapse: collapse;">
 <tr>
